@@ -1,0 +1,1 @@
+# snippet-accordion-from-details
