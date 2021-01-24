@@ -14,14 +14,6 @@ h1 {
     text-align:center;
 }
 
-/* .container {
-    display:grid;
-    padding: 10px;
-    margin: 10px auto;
-    max-width: 600px;
-    justify-self:center;
-} */
-
 summary {
     max-width:500px;
     background: lightgrey;
@@ -54,7 +46,6 @@ p {
 p:last-child {
   padding: 0;
 }
-
 
 img {
     max-width: 100%;
